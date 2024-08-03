@@ -6,7 +6,7 @@ USE Eco;
 
 CREATE TABLE Usuário 
 ( 
- ID_Usuário INT PRIMARY KEY,  
+ ID_Usuário INT AUTO_INCREMENT PRIMARY KEY,  
  Nome_Usuário varchar(45),  
  Telefone_Usuário varchar(12),  
  Email_Usuário varchar(100)  

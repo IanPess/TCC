@@ -56,3 +56,7 @@ document.querySelector("#close2").addEventListener("click", function() {
     func2Executed = true;
     checkAndExecuteFinalFunction();
 });
+
+
+
+
